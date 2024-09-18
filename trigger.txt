@@ -1,1 +1,1 @@
-ubuntu/nginx:latest crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/lzregistry/nginx:latest
+nginx:latest crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/lzregistry/nginx:latest
