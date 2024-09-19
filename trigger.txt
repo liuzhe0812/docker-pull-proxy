@@ -1,1 +1,1 @@
-redis:6-alpine crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/redis:6-alpine
+langgenius/dify-api:0.8.2 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/dify-api:0.8.2
