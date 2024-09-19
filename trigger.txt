@@ -1,4 +1,1 @@
-nginx:latest crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/nginx:latest
 postgres:15-alpine crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/postgres:15-alpine
-redis:6-alpine crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/redis:6-alpine
-langgenius/dify-sandbox:0.2.9 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/dify-sandbox:0.2.9
