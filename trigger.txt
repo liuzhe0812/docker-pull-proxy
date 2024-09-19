@@ -1,1 +1,1 @@
-langgenius/dify-api:0.8.2 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/dify-api:0.8.2
+langgenius/dify-web:0.8.2 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/dify-web:0.8.2
