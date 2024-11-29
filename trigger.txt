@@ -1,1 +1,1 @@
-langgenius/dify-web:0.8.2 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/dify-web:0.8.2
+nvidia/cuda:11.2.2-cudnn8-devel-ubuntu20.04 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/cuda:11.2.2-cudnn8-devel-ubuntu20.04
