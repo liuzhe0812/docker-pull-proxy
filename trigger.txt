@@ -1,1 +1,1 @@
-nvidia/cuda:11.2.2-cudnn8-devel-ubuntu20.04 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/cuda:11.2.2-cudnn8-devel-ubuntu20.04
+ubuntu:20.04 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/ubuntu:20.04
