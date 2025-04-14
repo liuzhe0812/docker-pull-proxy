@@ -1,1 +1,1 @@
-olivernn/docker-cups crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/docker-cups
+docker.io/agentea/cups crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/cups
