@@ -1,1 +1,1 @@
-docker.io/agentea/cups crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/cups
+docker.io/agentea/cups crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/cups:1.0
