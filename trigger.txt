@@ -1,1 +1,1 @@
-ubuntu:20.04 crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/ubuntu:20.04
+olivernn/docker-cups crpi-29nfzz0svq4skgtw.cn-hangzhou.personal.cr.aliyuncs.com/lznamespace/docker-cups
